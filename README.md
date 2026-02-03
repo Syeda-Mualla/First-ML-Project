@@ -1,0 +1,1 @@
+This is my first machine learning project using CERN Open Data. The project focuses on analyzing particle physics data and building a machine learning model to outcomes. It covers the full ML workflow: data preprocessing, model training, evaluation, and visualization.
