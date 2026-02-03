@@ -1,6 +1,7 @@
 This is my first machine learning project using CERN Open Data. The project focuses on analyzing particle physics data and building a machine learning model to outcomes. It covers the full ML workflow: data preprocessing, model training, evaluation, and visualization.
-Features
 
+
+Features:
 Data cleaning and preprocessing
 
 Machine learning model implementation (Random Forest, SVM, etc.)
@@ -8,7 +9,8 @@ Machine learning model implementation (Random Forest, SVM, etc.)
 Model evaluation using Accuracy, Precision, Recall, F1-score
 
 Visualization of results
-Dataset
+
+Dataset:
 
 Source: CERN Open Data Portal
 
